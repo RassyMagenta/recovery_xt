@@ -15,6 +15,6 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_nicky.mk
+    $(LOCAL_DIR)/twrp_rmx1921.mk
 
-COMMON_LUNCH_CHOICES := omni_nicky-eng
+COMMON_LUNCH_CHOICES := twrp_rmx1921-eng
