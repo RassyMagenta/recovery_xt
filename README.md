@@ -1,5 +1,13 @@
-# recovery_device_oplus_nicky
-Recovery tree for realme sdm710 devices
+# recovery_device_Realme_XT
+Recovery tree for Realme XT (sdm712)
+
+### 📢 Disclaimer
+This recovery tree is maintained for my **personal OrangeFOX builds**. 
+
+* **Public Sharing:** I do not share the resulting builds in any public community or Telegram groups.
+* **Credits:** Based on the work by [improbir](https://github.com/improbir) and [mauronofrio](https://github.com/mauronofrio).
+
+---
 
 ## Features
 
@@ -43,3 +51,5 @@ fastboot flash /path/to/recovery.img
 
 - Thanks to @mauronfrio for the TWRP tree for realme X/XT
 - TWRP team
+- https://github.com/improbir
+
